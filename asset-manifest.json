@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rick-and-morty-surya-app/static/css/main.f5eb38ad.chunk.css",
+    "main.js": "/rick-and-morty-surya-app/static/js/main.014517b5.chunk.js",
+    "main.js.map": "/rick-and-morty-surya-app/static/js/main.014517b5.chunk.js.map",
+    "runtime-main.js": "/rick-and-morty-surya-app/static/js/runtime-main.c2737ded.js",
+    "runtime-main.js.map": "/rick-and-morty-surya-app/static/js/runtime-main.c2737ded.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/rick-and-morty-surya-app/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.30fe054e.chunk.js": "/rick-and-morty-surya-app/static/js/2.30fe054e.chunk.js",
+    "static/js/2.30fe054e.chunk.js.map": "/rick-and-morty-surya-app/static/js/2.30fe054e.chunk.js.map",
+    "index.html": "/rick-and-morty-surya-app/index.html",
+    "precache-manifest.a75784cbe7c04f897dd793ceb435bded.js": "/rick-and-morty-surya-app/precache-manifest.a75784cbe7c04f897dd793ceb435bded.js",
+    "service-worker.js": "/rick-and-morty-surya-app/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/rick-and-morty-surya-app/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.f5eb38ad.chunk.css.map": "/rick-and-morty-surya-app/static/css/main.f5eb38ad.chunk.css.map",
+    "static/js/2.30fe054e.chunk.js.LICENSE.txt": "/rick-and-morty-surya-app/static/js/2.30fe054e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2737ded.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.30fe054e.chunk.js",
+    "static/css/main.f5eb38ad.chunk.css",
+    "static/js/main.014517b5.chunk.js"
+  ]
+}
