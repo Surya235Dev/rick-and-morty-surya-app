@@ -1,0 +1,32 @@
+nav{
+    margin-bottom: 20px;
+}
+
+.brand{
+        font-size: 2rem;
+
+}
+
+
+span{
+    color:black;
+    text-shadow: none;
+    font-size: 18px;
+}
+input[type="search"]{
+  
+width: 225px !important;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+.brand{
+  
+  
+  font-family: 'Montserrat', sans-serif;
+ 
+  font-size: 2rem;
+  letter-spacing: 1px;
+  font-weight: 200;
+
+}
+
